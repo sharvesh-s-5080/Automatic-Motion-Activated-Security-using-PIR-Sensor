@@ -85,7 +85,7 @@ void loop()
 
 
 ### Output:
-<img width="1919" height="1120" alt="image" src="https://github.com/user-attachments/assets/37f4fbdf-9f6f-4b7e-b84e-5b712d4cc95a" />
+<img width="1919" height="877" alt="motion" src="https://github.com/user-attachments/assets/5015cd55-d038-42e2-8040-f64a0ed15169" />
 
 
 
